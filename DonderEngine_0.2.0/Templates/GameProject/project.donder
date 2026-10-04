@@ -1,0 +1,6 @@
+{
+  "engine": "DonderEngine",
+  "version": "0.2.0",
+  "scriptLanguage": "C#",
+  "startupScene": "Scenes/Main.scene"
+}

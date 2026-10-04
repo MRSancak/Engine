@@ -1,0 +1,8 @@
+{
+  "scene": "Main",
+  "objects": [
+    {"name": "Main Camera"},
+    {"name": "Directional Light"},
+    {"name": "Cube"}
+  ]
+}
